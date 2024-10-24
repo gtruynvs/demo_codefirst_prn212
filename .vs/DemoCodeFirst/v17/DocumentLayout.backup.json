@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\DemoCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|d:\\university\\sem5\\prn212\\code\\democodefirst\\categorymanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\DemoCodeFirst\\CategoryManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CategoryManager\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\DemoCodeFirst\\CategoryManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CategoryManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA/wDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:38:23.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
